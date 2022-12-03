@@ -3,8 +3,9 @@
 ### Content
 
 - Player guide
-- Main event flyer
-- Polkadot Onboarding flyer
+- Budapest guide
+- Event map
+- Flyers
 - Brand kit
 
 ### Links
